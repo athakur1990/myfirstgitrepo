@@ -1,2 +1,8 @@
-This is my second file.
-I am going to push this file to my git reporsitory
+if "add1"
+    print response
+        "I am adding case 1"
+
+if "add2"
+    print response
+        "I am adding case 2"
+

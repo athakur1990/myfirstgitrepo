@@ -1,2 +1,7 @@
-Hi how are you. This is my first file.
-I have created ob 4th aug 2020
+if "1"
+    print response
+        "I am case 1"
+
+if "2"
+    print response
+        "I am case 2"
